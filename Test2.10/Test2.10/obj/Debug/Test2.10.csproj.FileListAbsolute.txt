@@ -1,0 +1,11 @@
+G:\prg\Test2.10\Test2.10\bin\Debug\Test2.10.exe.config
+G:\prg\Test2.10\Test2.10\bin\Debug\Test2.10.exe
+G:\prg\Test2.10\Test2.10\bin\Debug\Test2.10.pdb
+G:\prg\Test2.10\Test2.10\obj\Debug\Test2.10.csproj.AssemblyReference.cache
+G:\prg\Test2.10\Test2.10\obj\Debug\Test2.10.csproj.SuggestedBindingRedirects.cache
+G:\prg\Test2.10\Test2.10\obj\Debug\Test2._10.Form1.resources
+G:\prg\Test2.10\Test2.10\obj\Debug\Test2._10.Properties.Resources.resources
+G:\prg\Test2.10\Test2.10\obj\Debug\Test2.10.csproj.GenerateResource.cache
+G:\prg\Test2.10\Test2.10\obj\Debug\Test2.10.csproj.CoreCompileInputs.cache
+G:\prg\Test2.10\Test2.10\obj\Debug\Test2.10.exe
+G:\prg\Test2.10\Test2.10\obj\Debug\Test2.10.pdb
